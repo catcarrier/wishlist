@@ -17,6 +17,7 @@
     if (g_form.isNewRecord()) {
         g_form.setValue('requester', g_user.userID);
     }
+	
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>admin</sys_created_by>
